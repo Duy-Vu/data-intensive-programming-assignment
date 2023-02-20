@@ -1,0 +1,11 @@
+*.class
+*.log
+
+/bin/
+
+.bsp/
+.settings/
+target/
+.cache-main
+.classpath
+*project*
